@@ -1,0 +1,9 @@
+html {
+    font-family: sans-serif;
+    background: linear-gradient(#e66465, #9198e5);
+}
+
+body {
+    /*height: 1000px;*/
+    height: 100vh;
+}

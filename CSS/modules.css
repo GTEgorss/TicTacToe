@@ -1,0 +1,28 @@
+.field div {
+    width: 100px;
+    height: 100px;
+    font-size: 72px;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+}
+
+.new-game-button {
+    height: 40px;
+    width: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 2px solid black;
+    border-radius: 10px;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    background-color: rgba(0, 0, 0, 0%);
+}
